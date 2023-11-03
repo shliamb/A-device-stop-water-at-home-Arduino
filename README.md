@@ -14,9 +14,17 @@ water shut-off arduino
 <img src="files/IMG_20230620_155028.jpg" alt="Внешний вид платы" width="auto" height="auto" align="top">
 
 Комплектация и ссылки для покупки элементов:
-1. [Программатор](https://aliexpress.ru/item/32792513237.html?spm=a2g0o.order_list.order_list_main.611.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=10000015042616724)
+1. [Программатор ST-Link](https://aliexpress.ru/item/32792513237.html?spm=a2g0o.order_list.order_list_main.611.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=10000015042616724)
+2. [Кран DN15, DC5v, CR01](https://aliexpress.ru/item/32821745380.html?spm=a2g0o.order_list.order_list_main.551.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=64817703153)
+3. [Драйвер двигателей L298N](https://aliexpress.ru/item/1005001621936295.html?spm=a2g0o.order_list.order_list_main.546.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000016846765674)
+4. [Датчик воды простой](https://aliexpress.ru/item/1005002741992952.html?spm=a2g0o.order_list.order_list_main.541.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000021933922893)
+5. [Кнопки с резиновой втулкой](https://aliexpress.ru/item/32673733924.html?spm=a2g0o.order_list.order_list_main.401.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=60207872197)
+6. [Провод для протяжки датчиков](https://aliexpress.ru/item/1005001568848822.html?spm=a2g0o.order_list.order_list_main.11.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000030369248110)
+7. [Клеймы](https://aliexpress.ru/item/1005003556955422.html?spm=a2g0o.order_list.order_list_main.76.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000026274837539)
+8. [STM32F103C8T6](https://aliexpress.ru/item/1005003038641885.html?spm=a2g0o.order_list.order_list_main.141.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000023380646279)
+9. [OLED экран SSD136](https://aliexpress.ru/item/1005004224962425.html?spm=a2g0o.order_list.order_list_main.136.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000028455423552)
+    
 
-2. <a href="http://example.com" target="_blank">Link</a>
 
 
 Небольшое видео работы устройства и мои колхозные рассуждения:
