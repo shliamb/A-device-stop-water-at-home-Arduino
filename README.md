@@ -13,7 +13,7 @@ water shut-off arduino
 Внешний вид устройства:
 <img src="files/IMG_20230620_155028.jpg" alt="Внешний вид платы" width="auto" height="auto" align="top">
 
-Комплектация и ссылки для покупки элементов:
+Комплектация и ссылки для покупки элементов (основное):
 1. [Программатор ST-Link](https://aliexpress.ru/item/32792513237.html?spm=a2g0o.order_list.order_list_main.611.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=10000015042616724)
 2. [Кран DN15, DC5v, CR01](https://aliexpress.ru/item/32821745380.html?spm=a2g0o.order_list.order_list_main.551.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=64817703153)
 3. [Драйвер двигателей L298N](https://aliexpress.ru/item/1005001621936295.html?spm=a2g0o.order_list.order_list_main.546.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000016846765674)
@@ -24,7 +24,7 @@ water shut-off arduino
 8. [STM32F103C8T6](https://aliexpress.ru/item/1005003038641885.html?spm=a2g0o.order_list.order_list_main.141.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000023380646279)
 9. [OLED экран SSD136](https://aliexpress.ru/item/1005004224962425.html?spm=a2g0o.order_list.order_list_main.136.5f1218029YgoDx&gatewayAdapt=glo2rus&sku_id=12000028455423552)
     
-
+[Схема и исходники для easyeda](easyeda_com-water-shut-off.zip)
 
 
 Небольшое видео работы устройства и мои колхозные рассуждения:
