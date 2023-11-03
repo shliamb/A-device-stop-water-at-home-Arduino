@@ -6,11 +6,8 @@ gg
 
 
 
-'[![Watch the video](https://raw.githubusercontent.com/shliamb/water-shut-off/main/files/video.png)](https://www.youtube.com/embed/kJl_R9npxQE?si=utTMXmJ6Z3xOJjf_)'
+[![Watch the video](https://raw.githubusercontent.com/shliamb/water-shut-off/main/files/video.png)](https://www.youtube.com/embed/kJl_R9npxQE?si=utTMXmJ6Z3xOJjf_){:target="_blank"}
 
-https://youtu.be/kJl_R9npxQE?si=iuuFckJzyXVrTMIX
-
-[![Watch the video](https://i.ytimg.com/vi/kJl_R9npxQE/maxresdefault.jpg)](https://youtu.be/kJl_R9npxQE?si=iuuFckJzyXVrTMIX)
 
 
 
