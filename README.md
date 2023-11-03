@@ -27,6 +27,12 @@ water shut-off arduino
 [Схема и исходники для easyeda](easyeda_com-water-shut-off.zip)
 
 
+<img src="files/IMG_20230605_233239.jpg" alt="Разводка платы" width="auto" height="auto" align="top">
+
+<img src="files/IMG_20230619_123218.jpg" alt="Размещение элементов" width="auto" height="auto" align="top">
+
+Устройство было собранно под собственные нужды. Направлений к улучшению море. Можно сделать таймер тестового срабатывания от закисания кранов, в первой версии это было, но переписав не успел добавить. Радио датчики. Оповещение по телеграм. Автономное питание, хотя это по моему спорно. 
+
 Небольшое видео работы устройства и мои колхозные рассуждения:
 [![Watch the video](https://raw.githubusercontent.com/shliamb/water-shut-off/main/files/video.png)](https://www.youtube.com/embed/kJl_R9npxQE?si=utTMXmJ6Z3xOJjf_)
 
