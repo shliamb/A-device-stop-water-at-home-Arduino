@@ -1,4 +1,4 @@
-//Water-block created by Saposhnikov A.V. август 2023 1Rmaster.ru
+//Water-block created by @Shliamb август 2023 1Rmaster.ru
 
 /*
   Device activity mode on click button "Action":
